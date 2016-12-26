@@ -1,0 +1,23 @@
+{
+    "name": "tappz/lumen-server",
+    "description": "This package contains lumen framework that allows you to create your own rest api for T-appz",
+    "keywords": [
+        "t-appz",
+        "lumen",
+        "sdk",
+        "api"
+    ],
+    "homepage": "http://t-appz.com",
+    "license": "Apache v2",
+    "authors": [
+        {
+            "name": "dzgok",
+            "homepage": "https://github.com/dzgok"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/lumen-framework": "5.2.*",
+
+    }
+}
